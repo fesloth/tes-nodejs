@@ -1,0 +1,25 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "hello world sederhana",
+  "main": "index.js",
+  "scripts": {
+    "test": "package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fesloth/tes-nodejs.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "fesloth",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fesloth/tes-nodejs/issues"
+  },
+  "homepage": "https://github.com/fesloth/tes-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
